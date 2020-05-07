@@ -48,6 +48,3 @@ Periodo de capacitaçao dos professores e alunos para aulas a distancia.
 Semana de 04/05 a 08/05
 No inicio do projeto haviamos criado um Planner para o gerencimento das atividades, porém devido as aulas agora serem pelo Teams, onde o professor responsavel criou um novo Planner para todos os grupos, eu copiei as tarefas do antigo para este novo. Segue o Link
 https://tasks.office.com/fatec.sp.gov.br/Home/PlanViews/YupZuWnjlUWkZdz25sfJaWQAGF_W?Type=PlanLink&Channel=Link&CreatedTime=637242831622720000
-
-07/05
-Atualizado com pasta Documentação
