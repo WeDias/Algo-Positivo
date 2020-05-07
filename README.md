@@ -2,7 +2,6 @@
 Projeto integrador do 2º sem de Análise de Sistemas
 Faculdade de Tecnologia de São José dos Campos 
 
----
 ## Sobre o projeto
 
 Este projeto é o resultado de uma parceria acadêmica entre o SPC Brasil e a Fatec de São José dos Campos.  
