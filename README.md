@@ -14,7 +14,7 @@ SO: Windows 10.
 
 ### Últimas atualizações:
 - [x] Criação da tela de login
-- [x] Criação do banco de dados para armazenar os usários e as senhas
+- [x] Criação do banco de dados para armazenar os usuários e as senhas
 - [x] Senhas salvas utilizando função hash SHA256
 ![previa](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Ignorar/previa_entrega2.gif)
 
