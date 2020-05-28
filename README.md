@@ -12,12 +12,6 @@ O programa deverá achar erros, corrigir se possível, fazer login para as difer
 Estamos utilizando o Jupyter Notebook e a linguagem Python para análise e exibição do conteúdo, com as bibliotecas Pandas, tkinter, SQLite3, Hashlib.  
 SO: Windows 10.
 
-### Últimas atualizações:
-- [x] Criação da tela de login
-- [x] Criação do banco de dados para armazenar os usuários e as senhas
-- [x] Senhas salvas utilizando função hash SHA256
-![previa](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Ignorar/previa_entrega2.gif)
-
 ---
 #### Desenvolvedores:  
 [*Wesley Dias (PO)*](https://github.com/WeDias)  
