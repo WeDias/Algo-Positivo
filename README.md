@@ -20,4 +20,5 @@ SO: Windows 10.
 [*Wesley Dias (PO)*](https://github.com/WeDias)  
 [*Israel Augusto (MASTER)*](https://github.com/IsraelAugusto0110)   
 [*Denis Lima*](https://github.com/Denis-Lima)  
-[*Natalia Biscaro*](https://github.com/NataliaBiscaro)
+[*Natalia Biscaro*](https://github.com/NataliaBiscaro)   
+[*Euclides Rezende*](https://github.com/euclidesjc)
