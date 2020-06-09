@@ -1,5 +1,6 @@
 # Algo Positivo
 Projeto integrador do 2º período de Análise e Desenvolvimento de Sistemas, Faculdade de Tecnologia de São José dos Campos.
+Este é um projeto da parceria entre a FATEC de São José dos Campos e o SPC Brasil.
 
 ### Sobre o projeto:
 Com a mudança do modelo de operação do Cadastro Positivo, surgiu a necessidade de realizar uma gestão de informação mais eficaz para garantir a qualidade, o uso adequado e gerar valor através dos dados. E para gerar valor através destes dados, será mapeado de forma geral o perfil dos clientes, de modo que a área de marketing possa compreender melhor quem são seus clientes e criar campanhas mais assertivas para determinado nicho. 
