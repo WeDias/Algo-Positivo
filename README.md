@@ -13,6 +13,8 @@ Estamos utilizando o Jupyter Notebook e a linguagem Python para análise e exibi
 SO: Windows 10.
 
 ### Ultimas entregas:
+- [x] Entrega nº1: [Clique aqui para visualizar]()   
+- [x] Entrega nº2: [Clique aqui para visualizar]()   
 - [x] Entrega nº3: [Clique aqui para visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega3)
 
 ---
