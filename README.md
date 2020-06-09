@@ -13,10 +13,10 @@ Estamos utilizando a linguagem Python para análise e exibição do conteúdo, c
 SO: Windows 10.
 
 ### Ultimas entregas:
-- [x] Entrega 1: [Clique aqui para visualizar]()   
-- [x] Entrega 2: [Clique aqui para visualizar]()   
-- [x] Entrega 3: [Clique aqui para visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega3)
-- [x] Entrega 4: [Clique aqui para visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega4) 
+- [x] Entrega 1: [Visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega1)   
+- [x] Entrega 2: [Visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega2)   
+- [x] Entrega 3: [Visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega3)
+- [x] Entrega 4: [Visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega4) 
 
 ---
 #### Desenvolvedores:  
