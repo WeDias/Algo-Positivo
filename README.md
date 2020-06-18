@@ -17,6 +17,7 @@ SO: Windows 10.
 - [x] Entrega 2: [Visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega2)   
 - [x] Entrega 3: [Visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega3)
 - [x] Entrega 4: [Visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega4) 
+- [x] Entrega 5: [Visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega5) 
 
 ---
 #### Desenvolvedores:  
