@@ -21,4 +21,4 @@ Será desenvolvido uma aplicação gráfica para desktop que primeiramente requi
 [*Israel Augusto (MASTER)*](https://github.com/IsraelAugusto0110)   
 [*Denis Lima*](https://github.com/Denis-Lima)  
 [*Natalia Biscaro*](https://github.com/NataliaBiscaro)   
-[*Euclides Rezende*](https://github.com/euclidesjc)
+[*Euclides Rezende*](https://github.com/euclas)
