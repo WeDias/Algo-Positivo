@@ -8,10 +8,6 @@ Com a mudança do modelo de operação do Cadastro Positivo, surgiu a necessidad
 ### Escopo:
 Será desenvolvido uma aplicação gráfica para desktop que primeiramente requisitará ao usuário inserir suas credenciais para ter acesso ao sistema, e após ter acesso liberado, será apresentada uma nova interface onde poderão ser encontrados os dados gerados pelo sistema. Os dados gerados são: total e média de idade dos clientes por região, estado, sexo, faixa etária, modalidade mais utilizada e a menos utilizada. O programa também terá a opção para exportar os dados gerados, salvando em arquivos csv para facilitar a abertura no Excel para aplicação de filtros. 
 
-### Desenvolvimento:
-Estamos utilizando a linguagem Python para análise e exibição do conteúdo, com as bibliotecas Pandas, tkinter, SQLite3, Hashlib.  
-SO: Windows 10.
-
 ### Ultimas entregas:
 - [x] Entrega 1: [Visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega1)   
 - [x] Entrega 2: [Visualizar](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/tree/Entrega2)   
