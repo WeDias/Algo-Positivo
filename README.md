@@ -48,5 +48,5 @@ Os dados enviados podem ser encontrados [*clicando aqui*](https://github.com/Isr
 | [*Wesley Dias (PO)*](https://github.com/WeDias)
 | [*Israel Augusto (MASTER)*](https://github.com/IsraelAugusto0110)
 | [*Denis Lima*](https://github.com/Denis-Lima)
-| [*Natalia Biscaro*](https://github.com/NataliaBiscaro)
+| [*Natalia Biscaro*](https://br.linkedin.com/in/nataliabiscaro)
 | [*Euclides Rezende*](https://github.com/euclas) |
