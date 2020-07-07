@@ -49,4 +49,4 @@ Os dados enviados podem ser encontrados [*clicando aqui*](https://github.com/Isr
 | [*Israel Augusto (MASTER)*](https://www.linkedin.com/in/israel-augusto-santos-4651b7197)
 | [*Denis Lima*](https://github.com/Denis-Lima)
 | [*Natalia Biscaro*](https://br.linkedin.com/in/nataliabiscaro)
-| [*Euclides Rezende*](https://github.com/euclas) |
+| [*Euclides Rezende*](https://www.linkedin.com/in/euclides-rezende-0940458/) |
