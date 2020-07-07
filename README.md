@@ -19,16 +19,18 @@ Brasil.
 Será desenvolvido um programa em Python onde ele será responsável por gerar as
 informações úteis e enviar para todos os e-mails cadastrados em um banco de dados
 SQLite3.
+
 Os dados que serão gerados são: total e média de idade dos clientes por região, estado,
 sexo, faixa etária, quantidade de transações por modalidade de cada região e faixa etária. Os
-dados serão enviados no formato de arquivo JSON para que possa ser aberto em outras
+mesmos serão enviados no formato de arquivo JSON para que possa ser aberto em outras
 ferramentas de análise como Excel.
+
 Primeiramente o programa vai ler os dados dos clientes e de operações para extrair as
-informações necessárias para realizar a análise, evitando dados incompletos, como
-operações com IDs de pessoas não cadastradas na base, ou estado não encontrado.
-Após a filtragem para obter dados confiáveis, o programa passa para a etapa de analisar e
-gerar os dados que serão usados pela área de marketing.
-E por fim, após estar pronto o arquivo com os dados úteis, eles serão enviados de forma
+informações necessárias para então realizar a análise, evitando dados incompletos como
+operações com IDs de pessoas não cadastradas na base ou estado não encontrado.
+Após a filtragem para obter dados confiáveis o programa passa para a etapa de analise e
+gerir os dados que serão usados pela área de marketing.
+Por fim, após estar pronto o arquivo com os dados úteis, eles serão enviados de forma
 automática para os endereços de e-mail cadastrados.
 
 ## Visão do usuário final 
