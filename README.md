@@ -46,7 +46,7 @@ Os dados enviados podem ser encontrados [*clicando aqui*](https://github.com/Isr
 
 ## Desenvolvedores
 | [*Wesley Dias (PO)*](https://www.linkedin.com/in/wesley-dias-bba3a11b2/)
-| [*Israel Augusto (MASTER)*](https://github.com/IsraelAugusto0110)
+| [*Israel Augusto (MASTER)*](www.linkedin.com/in/israel-augusto-santos-4651b7197)
 | [*Denis Lima*](https://github.com/Denis-Lima)
 | [*Natalia Biscaro*](https://br.linkedin.com/in/nataliabiscaro)
 | [*Euclides Rezende*](https://github.com/euclas) |
