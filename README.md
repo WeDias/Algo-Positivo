@@ -31,9 +31,22 @@ gerar os dados que serão usados pela área de marketing.
 E por fim, após estar pronto o arquivo com os dados úteis, eles serão enviados de forma
 automática para os endereços de e-mail cadastrados.
 
-## Desenvolvedores:  
-[*Wesley Dias (PO)*](https://github.com/WeDias)  
-[*Israel Augusto (MASTER)*](https://github.com/IsraelAugusto0110)   
-[*Denis Lima*](https://github.com/Denis-Lima)  
-[*Natalia Biscaro*](https://github.com/NataliaBiscaro)   
+## Prévia
+Visão do usuário final  
+Obs.: O usuário não executará o programa, isto só foi feito para que os dados fossem enviados, 
+para fins de demonstração.  
+Os dados enviados podem ser encontrados [*clicando aqui*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/C%C3%B3digos/Dados/Final/estados.json).
+![previa](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Ignorar/Previa.gif)
+
+## Utilidades
+| [*Código-fonte*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/C%C3%B3digos/algopositivo.pyw)
+| [*Documento de Visão*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Documento-de-Vis%C3%A3o.pdf)
+| [*Diagrama de fluxo de dados*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Fluxo-de-Dados.pdf)
+| [*Backlog*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Backlog.pdf) |
+
+## Desenvolvedores
+[*Wesley Dias (PO)*](https://github.com/WeDias)
+[*Israel Augusto (MASTER)*](https://github.com/IsraelAugusto0110)
+[*Denis Lima*](https://github.com/Denis-Lima)
+[*Natalia Biscaro*](https://github.com/NataliaBiscaro)
 [*Euclides Rezende*](https://github.com/euclas)
