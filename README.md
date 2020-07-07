@@ -45,7 +45,7 @@ Os dados enviados podem ser encontrados [*clicando aqui*](https://github.com/Isr
 | [*Backlog*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Backlog.pdf) |
 
 ## Desenvolvedores
-| [*Wesley Dias (PO)*](https://github.com/WeDias)
+| [*Wesley Dias (PO)*](https://www.linkedin.com/in/wesley-dias-bba3a11b2/)
 | [*Israel Augusto (MASTER)*](https://github.com/IsraelAugusto0110)
 | [*Denis Lima*](https://github.com/Denis-Lima)
 | [*Natalia Biscaro*](https://br.linkedin.com/in/nataliabiscaro)
