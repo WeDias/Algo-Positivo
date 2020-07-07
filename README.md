@@ -35,6 +35,7 @@ automática para os endereços de e-mail cadastrados.
 Obs.: O usuário não executará o programa, isto só foi feito para que os dados fossem enviados, para fins de demonstração.  
 ![previa](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Ignorar/Previa.gif)
 
+Imagem pequena ? Então [*clique aqui*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Ignorar/Previa.gif).  
 Os dados enviados podem ser encontrados [*clicando aqui*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/C%C3%B3digos/Dados/Final/estados.json).
 
 ## Utilidades
