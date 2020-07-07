@@ -3,19 +3,33 @@ Projeto integrador do 2º período de Análise e Desenvolvimento de Sistemas, Fa
 Este é um projeto da parceria entre a FATEC de São José dos Campos e a SPC Brasil.
 
 ### Motivação:
-Após a mudança do modelo operacional do Cadastro Positivo, mostra-se a necessidade de desenvolver uma gestão de informação que atenda requisitos de maneira mais eficaz, arquitete valor através dos dados e que também garantam de fato a qualidade e o uso adequado dos mesmo, trazendo melhores dados a área de marketing sobre os seus clientes, de modo que tal área compreenda melhor os interesses e quem são os seus clientes para que passem a desenvolver campanhas mais assertivas para  determinado grupo de pessoas.
- 
+Com a mudança do modelo de operação do Cadastro Positivo, surgiu a necessidade de
+realizar uma gestão de informação mais eficaz para garantir a qualidade, o uso adequado e
+gerar valor através dos dados. E para gerar valor através destes dados, será mapeado de
+forma geral o perfil dos clientes, de modo que a área de marketing possa compreender
+melhor quem são seus clientes e criar campanhas mais assertivas para determinado nicho,
+ajudando na tomada de decisões.
+
 ### Solução: 
-Após analisar-se os problemas, decidiu-se que seria necessário o desenvolvimento de um software capaz de analisar dados gerando um relatório contendo informações de seus clientes que serão úteis para a área de marketing da empresa.
- 
+Um software capaz de analisar dados e gerar um relatório com informações dos clientes,
+contendo alguns indicadores que serão úteis para a equipe da área de marketing da SPC
+Brasil.
+
 #### Funcionamento: 
-O programa desenvolvido em Python será responsável pela produção de informações úteis e o envio das mesmas para todos os e-mails cadastrados em um banco de dados SQLite3. Para a otimização do envio e maior confiabilidade nos mesmos, tais dados passarão por rigorosa análise para que os mesmos estejam compatíveis com os parâmetros de sua categoria. Serão enviados de forma automática para os e-mails cadastrados no  formato JSON para que possam ser abertos facilmente em outras ferramentas de análise como o Excel, por exemplo.
-O programa contará também com um sistema em que o usuário terá a possibilidade de categorizar uma mensagem de acordo com a sua necessidade, sendo elas "essencial", "importante" ou "desejável", de modo que cada categoria realiza uma série de ações para a otimização do produto. 
- 
-⚠Todo o projeto se encontra de acordo com a nova Lei Geral de Proteção de Dados Pessoais ⚠ 
- 
-
-
+Será desenvolvido um programa em Python onde ele será responsável por gerar as
+informações úteis e enviar para todos os e-mails cadastrados em um banco de dados
+SQLite3.
+Os dados que serão gerados são: total e média de idade dos clientes por região, estado,
+sexo, faixa etária, quantidade de transações por modalidade de cada região e faixa etária. Os
+dados serão enviados no formato de arquivo JSON para que possa ser aberto em outras
+ferramentas de análise como Excel.
+Primeiramente o programa vai ler os dados dos clientes e de operações para extrair as
+informações necessárias para realizar a análise, evitando dados incompletos, como
+operações com IDs de pessoas não cadastradas na base, ou estado não encontrado.
+Após a filtragem para obter dados confiáveis, o programa passa para a etapa de analisar e
+gerar os dados que serão usados pela área de marketing.
+E por fim, após estar pronto o arquivo com os dados úteis, eles serão enviados de forma
+automática para os endereços de e-mail cadastrados.
 
 ---
 #### Desenvolvedores:  
