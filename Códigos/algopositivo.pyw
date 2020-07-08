@@ -11,7 +11,9 @@ from email.mime.multipart import MIMEMultipart
 
 def tratar() -> None:
     """
-    :return:
+    tratar(): Serve para e selecionar os dados que serao utilizados
+    e evitar dados incompletos.
+    :return: None
     """
     with open('Dados/Bruto/stg_mdl.csv') as mdl:
         with open('Dados/Tratado/stg_mdl_ok.csv', 'w') as mdl_ok:
@@ -46,7 +48,9 @@ def tratar() -> None:
 
 def analisar() -> None:
     """
-    :return:
+    analisar(): Serve para gerar as informacoes uteis, depois de passar
+    pelo processo de tratamento dos dados, e salvar em um arquivo JSON
+    :return: None
     """
     dados_pessoas = {}
     with open('Dados/Tratado/fatec_pessoa_ok.csv') as arq_pessoa:
@@ -143,7 +147,9 @@ def analisar() -> None:
 
 def enviar() -> None:
     """
-    :return:
+    enviar(): Serve para enviar o arquivo JSON para os enderecos
+    de email registrados no banco de dados SQLite3
+    :return: None
     """
     conn = sql.connect('Dados/banco.db')
     cursor = conn.cursor()
@@ -186,5 +192,15 @@ def enviar() -> None:
     server.quit()
 
 
-if __name__ == '__main__':
+def main() -> None:
+    """
+    main(): Serve para a chamada das funçoes
+    :return: None
+    """
+    # tratar()
     analisar()
+    enviar()
+        
+
+if __name__ == '__main__':
+    main()
