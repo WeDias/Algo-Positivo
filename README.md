@@ -1,6 +1,6 @@
 # Algo Positivo
 Projeto integrador do 2º período de Análise e Desenvolvimento de Sistemas, Faculdade de Tecnologia de São José dos Campos.
-Este é um projeto da parceria entre a FATEC de São José dos Campos e uma empresa, doravante chamada de "Cliente".
+Este é um projeto da parceria entre a FATEC de São José dos Campos e uma empresa.
 
 ## Motivação
 Com a mudança do modelo de operação do Cadastro Positivo, surgiu a necessidade de
@@ -12,7 +12,7 @@ ajudando na tomada de decisões.
 
 ## Solução 
 Um software capaz de analisar dados e gerar um relatório com informações dos clientes,
-contendo alguns indicadores que serão úteis para a equipe da área de marketing de nosso "Cliente"
+contendo alguns indicadores que serão úteis para a equipe da área de marketing
 
 ## Funcionamento 
 Será desenvolvido um programa em Python onde ele será responsável por gerar as
