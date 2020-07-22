@@ -3,9 +3,9 @@ Projeto integrador do 2º período de Análise e Desenvolvimento de Sistemas, Fa
 Este é um projeto da parceria entre a FATEC de São José dos Campos e uma empresa.
 
 ## Utilidades
-| [*Código-fonte*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/C%C3%B3digos/algopositivo.pyw)
-| [*Documento de Visão*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Documento-de-Vis%C3%A3o.pdf)
-| [*Diagrama de fluxo de dados*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Fluxo-de-Dados.pdf)
+| [*Código-fonte*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/C%C3%B3digos/main.py)
+| [*Documento de Visão*]() --mudar--
+| [*Diagrama de fluxo de dados*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Fluxo%20de%20dados.png)
 | [*Backlog*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Backlog.pdf) |
 
 ## Desenvolvedores
