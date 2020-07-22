@@ -15,7 +15,8 @@ Para informações completas, consulte o [*Documento de Visão*](https://github.
 | [*Código-fonte*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/C%C3%B3digos/main.py)
 | [*Documento de Visão*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Documento_de_vis%C3%A3o.pdf)
 | [*Diagrama de fluxo de dados*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Fluxo%20de%20dados.png)
-| [*Backlog*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Backlog.pdf) |
+| [*Backlog*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Backlog.pdf)
+| [*clientes.json*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/C%C3%B3digos/Dados/clientes.json) |
 
 ## Desenvolvedores
 | [*Wesley Dias (PO)*](https://www.linkedin.com/in/wesley-dias-bba3a11b2/)
