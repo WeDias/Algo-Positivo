@@ -4,7 +4,6 @@ Este é um projeto da parceria entre a FATEC de São José dos Campos e uma empr
 
 Foi criado um programa que analisa os pagamentos dos clientes e envia por e-mail um arquivo em formato JSON contendo as informações dos clientes da empresa. O e-mail é enviado para os colaboradores da empresa SPC Brasil da área de marketing e que com os dados, poderão tomar decisões a respeito de oferecer ou não novos produtos e serviços para determinados clientes, de acordo com as informações dos pagamentos de cada um.
 
-## As informações geradas
 Será analisado os pagamentos das contas dos clientes, afim de saber se são bons ou maus pagadores, verificando se os pagamentos estão em dia e classificando cada cliente a partir de seus pagamentos, além de compreender qual modalidade o cliente tem mais dificuldade de quitar suas dívidas e seus valores, a média de valor atrasado e média de dias atrasados.
 
 ## Utilidades
