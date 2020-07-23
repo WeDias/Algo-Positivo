@@ -11,7 +11,9 @@ A área de marketing da empresa com essas informações em mãos, terão um aux�
 Será analisado os pagamentos das contas dos clientes, afim de saber se são bons ou maus pagadores, verificando se os pagamentos estão em dia e classificando cada cliente a partir de seus pagamentos, além de compreender qual modalidade o cliente tem mais dificuldade de quitar suas dívidas e seus valores, a média de valor atrasado e média de dias atrasados.
 Para informações completas, consulte o [*Documento de Visão*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Documento_de_vis%C3%A3o.pdf).
 
+## Prévia
 ![Previa](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Previa.gif)
+Para visualizar as informações geradas consulte [*clientes.json*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/C%C3%B3digos/Dados/clientes.json).
 
 ## Utilidades
 | [*Código-fonte*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/C%C3%B3digos/main.py)
