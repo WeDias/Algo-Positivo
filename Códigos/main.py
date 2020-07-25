@@ -1,4 +1,3 @@
-import json
 import smtplib
 import sqlite3 as sql
 from email import encoders
@@ -7,15 +6,20 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
 
+msg = MIMEMultipart()
+
 
 def tratar_dados(linha) -> False or list:
     """
-    :param linha:
-    :return:
+    tratar_dados(): Serve para tratar os dados dos arquivos
+    para evitar problemas com os dados e retornar uma lista
+    :param linha: Linha a ser analisada
+    :return: False se a linha estiver errada ou list
     """
     if linha.startswith('+') or linha.startswith('| id_opr_cad_pos |'):
         return False
     return list(map(lambda valor: valor.strip(), linha.split('|')))
+
 
 def add_anexo(path) -> None:
     """
@@ -33,6 +37,7 @@ def add_anexo(path) -> None:
     msg.attach(part2)
     attachment.close()
 
+
 def enviar() -> None:
     """
     enviar(): Serve para enviar o arquivo JSON para os enderecos
@@ -49,7 +54,6 @@ def enviar() -> None:
     cursor.close()
     email_from = 'algopositivospc@gmail.com'
     email_to = email_destino
-    msg = MIMEMultipart()
     msg['From'] = email_from
     msg['To'] = ', '.join(email_to)
     msg['Subject'] = 'Dados'
@@ -64,7 +68,7 @@ def enviar() -> None:
     '''
     part1 = MIMEText(html, 'html')
     msg.attach(part1)
-    add_anexo('Dados/clientes.json')
+    add_anexo('Dados/clientes.csv')
     smtp = "smtp.gmail.com"
     server = smtplib.SMTP(smtp, 587)
     server.starttls()
@@ -76,7 +80,10 @@ def enviar() -> None:
 
 def main() -> None:
     """
-    :return:
+    main(): Serve para realizar a analise dos dados dos clientes
+    para gerar as informacoes que seram salvas e enviadas pelo
+    e-mail
+    :return: None
     """
     with open('Dados/fatec_opr.csv') as arq_opr:
         operacoes = {}
@@ -198,10 +205,25 @@ def main() -> None:
             analise[cliente]['STATUS'] = 'PESSIMO'
     del atrasos, cliente, clientes, dias, maior, mod_maior_atraso, mod_maior_numero_atraso, \
         modalidade, pagamento, pagamentos, valor_maior_atraso, valor_maior_numero_atraso
-    with open('Dados/clientes.json', 'w') as salvar:
-        salvar.write(json.dumps(analise, indent=4))
+    with open('Dados/clientes.csv', 'w') as salvar:
+        salvar.write('CPF;STATUS;PORCENTAGEM_DE_ATRASO;VALOR_MEDIO_PAGAMENTOS_ATRASADOS;'
+                     'MEDIA_DE_DIAS_DE_PAGAMENTOS_ATRASADOS;NUMERO_PAGAMENTOS_ATRASADOS;'
+                     'VALOR_TOTAL_PAGAMENTOS_ATRASADOS;MODALIDADE_MAIOR_ATRASO;VALOR_DE_MAIOR_ATRASO;'
+                     'MODALIDADE_MAIOR_NUMERO_DE_ATRASOS;NUMERO_DE_ATRASOS;NUMERO_DE_PAGAMENTOS;'
+                     'VALOR_TOTAL_PAGAMENTOS;VALOR_MEDIO_PAGAMENTOS\n')
+        for chave, valor in analise.items():
+            salvar.write(f'{chave};{valor["STATUS"]};{valor["PORCENTAGEM_DE_ATRASO"]};'
+                         f'{valor["VALOR_MEDIO_PAGAMENTOS_ATRASADOS"]};'
+                         f'{valor["MEDIA_DE_DIAS_DE_PAGAMENTOS_ATRASADOS"]};'
+                         f'{valor["NUMERO_PAGAMENTOS_ATRASADOS"]};'
+                         f'{valor["VALOR_TOTAL_PAGAMENTOS_ATRASADOS"]};'
+                         f'{valor["VALOR_DE_MAIOR_ATRASO"]["MODALIDADE"]};'
+                         f'{valor["VALOR_DE_MAIOR_ATRASO"]["VALOR"]};'
+                         f'{valor["MAIOR_NUMERO_DE_ATRASOS"]["MODALIDADE"]};'
+                         f'{valor["MAIOR_NUMERO_DE_ATRASOS"]["NUMERO_DE_ATRASOS"]};'
+                         f'{valor["NUMERO_DE_PAGAMENTOS"]};{valor["VALOR_TOTAL_PAGAMENTOS"]};'
+                         f'{valor["VALOR_MEDIO_PAGAMENTOS"]}\n')
 
 
 if __name__ == '__main__':
     main()
-    enviar()
