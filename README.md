@@ -2,7 +2,7 @@
 Projeto integrador do 2º período de Análise e Desenvolvimento de Sistemas, Faculdade de Tecnologia de São José dos Campos.
 Este é um projeto da parceria entre a FATEC de São José dos Campos e uma empresa.
 
-Foi criado um programa que analisa os pagamentos dos clientes e envia por e-mail um arquivo em formato JSON contendo as informações dos clientes da empresa. O e-mail é enviado para os colaboradores da empresa SPC Brasil da área de marketing.
+Foi criado um programa que analisa os pagamentos dos clientes e envia por e-mail um arquivo em formato CSV contendo as informações dos clientes da empresa. O e-mail é enviado para os colaboradores da empresa SPC Brasil da área de marketing.
 
 ## Valor
 A área de marketing da empresa com essas informações em mãos, terão um auxílio nas decisões a respeito de oferecer ou não novos produtos e serviços para determinados clientes, de acordo com as informações dos clientes, se são bons ou maus pagadores.
@@ -13,14 +13,14 @@ Para informações completas, consulte o [*Documento de Visão*](https://github.
 
 ## Prévia
 ![Previa](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Previa.gif)
-Para visualizar as informações geradas consulte [*clientes.json*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/C%C3%B3digos/Dados/clientes.json).
+Para visualizar as informações geradas consulte [*clientes.csv*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/C%C3%B3digos/Dados/clientes.csv).
 
 ## Utilidades
 | [*Código-fonte*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/C%C3%B3digos/main.py)
 | [*Documento de Visão*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Documento_de_vis%C3%A3o.pdf)
 | [*Diagrama de fluxo de dados*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Fluxo%20de%20dados.png)
 | [*Backlog*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Backlog.pdf)
-| [*clientes.json*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/C%C3%B3digos/Dados/clientes.json) |
+| [*clientes.csv*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/C%C3%B3digos/Dados/clientes.csv) |
 
 ## Desenvolvedores
 | [*Wesley Dias (PO)*](https://www.linkedin.com/in/wesley-dias-bba3a11b2/)
