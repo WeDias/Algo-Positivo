@@ -12,7 +12,7 @@ Será analisado os pagamentos das contas dos clientes, afim de saber se são bon
 Para informações completas, consulte o [*Documento de Visão*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Documento_de_vis%C3%A3o.pdf).
 
 ## Prévia
-![Previa](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Previa.gif)
+![Previa](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/Documenta%C3%A7%C3%A3o/Previa0.gif)
 Para visualizar as informações geradas consulte [*clientes.csv*](https://github.com/IsraelAugusto0110/PI_ADS_2Sem/blob/master/C%C3%B3digos/Dados/clientes.csv).
 
 ## Utilidades
